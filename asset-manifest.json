@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TicTacToe-PvP-PvAI/static/css/main.74e477d3.css",
+    "main.js": "/TicTacToe-PvP-PvAI/static/js/main.dadaa274.js",
+    "index.html": "/TicTacToe-PvP-PvAI/index.html",
+    "main.74e477d3.css.map": "/TicTacToe-PvP-PvAI/static/css/main.74e477d3.css.map",
+    "main.dadaa274.js.map": "/TicTacToe-PvP-PvAI/static/js/main.dadaa274.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e477d3.css",
+    "static/js/main.dadaa274.js"
+  ]
+}
